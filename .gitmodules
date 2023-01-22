@@ -1,0 +1,12 @@
+[submodule "FileSharing"]
+	path = FileSharing
+	url = https://github.com/EHB-MCT/FileSharing.git
+[submodule "mobileKIH-APP"]
+	path = mobileKIH-APP
+	url = https://github.com/EHB-MCT/mobileKIH-APP.git
+[submodule "websocket-KIH"]
+	path = websocket-KIH
+	url = https://github.com/EHB-MCT/websocket-KIH.git
+[submodule "kader-KIH"]
+	path = kader-KIH
+	url = https://github.com/EHB-MCT/kader-KIH.git
