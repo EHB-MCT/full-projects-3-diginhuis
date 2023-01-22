@@ -10,3 +10,6 @@
 [submodule "kader-KIH"]
 	path = kader-KIH
 	url = https://github.com/EHB-MCT/kader-KIH.git
+[submodule "backend-dimetrodon"]
+	path = backend-dimetrodon
+	url = https://github.com/EHB-MCT/backend-dimetrodon.git
