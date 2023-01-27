@@ -1,15 +1,17 @@
 [submodule "FileSharing"]
 	path = FileSharing
 	url = https://github.com/EHB-MCT/FileSharing.git
+	branch=main
 [submodule "mobileKIH-APP"]
 	path = mobileKIH-APP
 	url = https://github.com/EHB-MCT/mobileKIH-APP.git
-[submodule "websocket-KIH"]
-	path = websocket-KIH
-	url = https://github.com/EHB-MCT/websocket-KIH.git
+	branch=main
 [submodule "kader-KIH"]
 	path = kader-KIH
 	url = https://github.com/EHB-MCT/kader-KIH.git
+	branch=main
 [submodule "backend-dimetrodon"]
 	path = backend-dimetrodon
 	url = https://github.com/EHB-MCT/backend-dimetrodon.git
+	branch=main
+	
