@@ -54,7 +54,7 @@ Op die manier maakt Kunst in Huis een brede waaier aan hedendaagse kunstvormen t
 ## Used Services
 As for services we make use of https://render.com/ to host our backend & websocket.
 We also make use of https://www.ovh.com/ to host both our files & static website, which
-should be available at http://dimetrodon.fr/testomgeving .
+should be available at http://kader.kunstinscherm.be/ .
 
 
 # Kunst In Scherm - Web Application
